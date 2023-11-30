@@ -1,0 +1,80 @@
+﻿class,label,id,name
+1,NNP,1,Agricultural land
+2,SXN,1.1,Land for agricultural production
+3,CHN,1.1.1,Annual cropland
+4,LUA,1.1.1.1,Land for rice cultivation
+5,LUC,1.1.1.1.1,Land specializing in wet rice cultivation
+6,LUK,1.1.1.1.2,The remaining land for wet rice cultivation
+7,LUN,1.1.1.1.3,Upland rice-growing land
+8,HNK,1.1.1.2,Other annual crops
+9,BHK,1.1.1.2.1,Flat land for planting other annual crops
+10,NHK,1.1.1.2.2,Upland land for planting other annual crops
+11,CLN,1.1.2,Land for perennial crops
+12,LNP,1.2,Forestry land
+13,RSX,1.2.1,Production forest land
+14,RSN,1.2.1.1,Land with production forest is a natural forest
+15,RST,1.2.1.2,Land with production forest is planted forest
+16,RSM,1.2.1.3,Land is being used to develop production forests
+17,RPH,1.2.2,Protection forest land
+18,RPN,1.2.2.1,Land with a protection forest is a natural forest
+19,RPT,1.2.2.2,Land with protection forest is planted forest
+20,RPM,1.2.2.3,The land is being used for the protection forest development
+21,RDD,1.2.3,Special-use forest land
+22,RDN,1.2.3.1,Land with special-use forests is natural forests
+23,RDT,1.2.3.2,Land with the special-use forest is planted forest
+24,RDM,1.2.3.3,Land is being used to develop special-use forests
+25,NTS,1.3,Aquaculture land
+26,LMU,1.4,Soil for salt
+27,NKH,1.5,Other agricultural land
+28,PNN,2,Non-agricultural land
+29,OTC,2.1,Landscape
+30,ONT,2.1.1,Land in countryside
+31,ODT,2.1.2,Land in urban areas
+32,CDG,2.2,Specialized land
+33,TSC,2.2.1,Land to build office headquarters
+34,CQP,2.2.2,Defense land
+35,CAN,2.2.3,Security land
+36,DSN,2.2.4,Land for construction of non-business works
+37,DTS,2.2.2.1,Land for building headquarters of non-business organizations
+38,DVH,2.2.2.2,Land for construction of cultural facilities
+39,DXH,2.2.2.3,Land for construction of social service facilities
+40,DYT,2.2.2.4,Land for construction of medical facilities
+41,DGD,2.2.2.5,Land for construction of educational and training institutions
+42,DTT,2.2.2.6,Land for construction of sports facilities
+43,DKH,2.2.2.7,Land for construction of science and technology facilities
+44,DNG,2.2.2.8,Land for construction of diplomatic facilities
+45,DSK,2.2.2.9,Land for construction of other non-business works
+46,CSK,2.2.5,Non-agricultural production and business land
+47,SKK,2.2.5.1,Industrial zone land
+48,SKN,2.2.5.2,Industrial cluster land
+49,SKT,2.2.5.3,Land of the export processing zone
+50,TMD,2.2.5.4,Commercial and service land
+51,SKC,2.2.5.5,Land for non-agricultural production facilities
+52,SKS,2.2.5.6,Land used for mineral activities
+53,SKX,2.2.5.7,Land for the production of building materials and pottery
+54,CCC,2.2.6,Land for public purposes
+55,DGT,2.2.6.1,Land transport
+56,DTL,2.2.6.2,Irrigation land
+57,DDT,2.2.6.3,Land with historical and cultural relics
+58,DDL,2.2.6.4,Land of scenic spots
+59,DSH,2.2.6.5,Land for community activities
+60,DKV,2.2.6.6,Land for public amusement and entertainment areas
+61,DNL,2.2.6.7,Land for energy works
+62,DBV,2.2.6.8,Land for post and telecommunications works
+63,DCH,2.2.6.9,Market land
+64,DRA,2.2.6.10,"Land for landfill, waste treatment"
+65,DCK,2.2.6.11,Land for other public works
+66,TON,2.3,Land for religious facilities
+67,TIN,2.4,Land of belief bases
+68,NTD,2.5,"Land cemetery, cemetery, funeral home, crematorium"
+69,SON,2.6,"Land of rivers, streams, canals, canals, streams"
+70,MNC,2.7,Land with specialized water surface
+71,PNK,2.8,Other non-agricultural land
+72,CSD,3,Unused land
+73,BCS,3.1,Unused flat land
+74,DCS,3.2,Unused hilly land
+75,NCS,3.3,Rocky mountains without trees
+76,MVB,4,Land with coastal water surface ( observation)
+77,MVT,4.1,Coastal land for aquaculture
+78,MVR,4.2,Coastal land with forests
+79,MVK,4.3,Coastal land for other purposes
